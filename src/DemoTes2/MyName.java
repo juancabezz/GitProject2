@@ -7,7 +7,7 @@ public class MyName {
 		System.out.println("My name is Juan Cabeza...");
 	}
 
-	public void add (int a, int b);
+	public void add (int a, int b) {
 	system.out.println(a+b);
 
 }
