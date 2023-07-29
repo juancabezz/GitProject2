@@ -10,5 +10,5 @@ public class MyName {
 	public void add (int a, int b);
 	system.out.println(a+b);
 
-
+}
 }
